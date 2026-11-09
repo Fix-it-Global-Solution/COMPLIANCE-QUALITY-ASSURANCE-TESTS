@@ -1,0 +1,12 @@
+Projeto: Fix-It — Plataforma Inteligente de Zeladoria Urbana
+     Disciplina: Compliance, Quality Assurance & Tests
+     Turma: 2TDSPF
+
+     Integrantes:
+     - Gabriel Sbrana Campos | RM: 565849
+     - Moisés Waidemann Molinillo | RM: 563719
+     - Richard Freitas | RM: 566127
+     - Thiago Rodrigues da Mota | RM: 563650
+
+     Link do Projeto no Azure DevOps:
+     https://dev.azure.com/RM565849/Fix-It%20-%20Global%20Solution
